@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2025/1/13 9:08
-# @Author  : 侯
-# @File    : resnet.py
-# @Software: PyCharm
-# 解读pytorch官方对resnet的实现
 import torch
 import torch.nn as nn
 # from .utils import load_state_dict_from_url
